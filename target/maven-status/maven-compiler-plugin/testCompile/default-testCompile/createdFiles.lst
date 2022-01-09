@@ -1,0 +1,9 @@
+com\bestbuyplayground\servicesinfo\FirstSerenityTest.class
+com\bestbuyplayground\servicesinfo\ServicesCRUDTestWithSteps.class
+com\bestbuyplayground\storeinfo\StoreCRUDTestWithSteps.class
+com\bestbuyplayground\storeinfo\FirstSerenityTest.class
+com\bestbuyplayground\testbase\TestBase.class
+com\bestbuyplayground\categoriesinfo\FirstSerenityTest.class
+com\bestbuyplayground\categoriesinfo\CategoriesCRUDTestWithSteps.class
+com\bestbuyplayground\productinfo\FirstSerenityTest.class
+com\bestbuyplayground\productinfo\ProductCRUDTestWithSteps.class
